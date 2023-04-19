@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own projects :computer:<br>I'm working with different people in a project web and android application :busts_in_silhouette:<br>I'm currently learning web development and different frameworks :blue_book:<br>I'm looking expand my knowledge :muscle:<br>Connect with me to make a team project :smile:
+:heavy_check_mark:I'm currently working on my own projects :computer:<br>:heavy_check_mark:I'm working with different people in a project web and android application :busts_in_silhouette:<br>:heavy_check_mark:I'm currently learning web development and different frameworks :blue_book:<br>:heavy_check_mark:I'm looking expand my knowledge :muscle:<br>:heavy_check_mark:Connect with me to make a team project :smile:
 
 
 ## 🌐 Socials:
